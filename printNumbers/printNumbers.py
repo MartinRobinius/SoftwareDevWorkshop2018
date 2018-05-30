@@ -22,7 +22,7 @@
 #
 # Software Development in Science Workshop 2018
 #        Python GitHub project example
-#
+# ROBINIUS is AWESOME
 
 """
 Usage:
